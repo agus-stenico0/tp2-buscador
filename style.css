@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(247, 244, 244);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.card {
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    transition: all .5s ease-in-out;
+    background-color: lightblue;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
+
+.card img {
+    min-height: 200px;
+    height: 200px;
+    object-fit:cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+#buscar {
+    width: 80vw;
+    
+}
+b{
+    font-size: 16px;
+}
+fieldset {
+    text-align: center;
+}
+
+#contenedor_cards{
+    text-align: center;
+    margin: 10px;
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container_info img{
+    width: 200px;
+}
+
+.container_info {
+    display: flex;
+}
+
+.column {
+    width: 50%;
+    padding: 20px;
+}
+
+input:focus {
+    background-color:lightblue;
+}

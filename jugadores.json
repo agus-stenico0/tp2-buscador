@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "nombre": "Lionel Messi",
+        "selección": "Argentina",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084497_400x600_2-3.jpg",
+        "club": "Paris Saint-Germain",
+        "edad": "35 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 2,
+        "nombre": "Kylian Mbappe",
+        "selección": "Francia",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084335_400x600_2-3.jpg",
+        "club": "Paris Saint-Germain",
+        "edad": "23 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 3,
+        "nombre": "Karin Benzema",
+        "selección": "Francia",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084490_400x600_2-3.jpg",
+        "club": "Real Madrid",
+        "edad": "34 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 4,
+        "nombre": "Kevin De Bruyne",
+        "selección": "Belgica",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084493_400x600_2-3.jpg",
+        "club": "Manchester City",
+        "edad": "31 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 5,
+        "nombre": "Robert Lewandowski",
+        "selección": "Polonia",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084499_400x600_2-3.jpg",
+        "club": "Barcelona",
+        "edad": "34 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 6,
+        "nombre": "Neymar",
+        "selección": "Brasil",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084502_400x600_2-3.jpg",
+        "club": "Paris Saint-Germain",
+        "edad": "30 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 7,
+        "nombre": "Luka Modric",
+        "selección": "Croacia",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084506_400x600_2-3.jpg",
+        "club": "Real Madrid",
+        "edad": "37 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 8,
+        "nombre": "Vinicius Jr",
+        "selección": "Brasil",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084509_400x600_2-3.jpg",
+        "club": "Real Madrid",
+        "edad": "22 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 9,
+        "nombre": "Thibaut Courtois",
+        "selección": "Belgica",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084511_400x600_2-3.jpg",
+        "club": "Real Madrid",
+        "edad": "30 años",
+        "posición": "Portero"
+    },
+    {
+        "id": 10,
+        "nombre": "Sadio Mané",
+        "selección": "Senegal",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084515_400x600_2-3.jpg",
+        "club": "Bayern Munich",
+        "edad": "30 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 11,
+        "nombre": "Harry Kane",
+        "selección": "Inglaterra",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084561_400x600_2-3.jpg",
+        "club": "Tottenham Hotspur",
+        "edad": "29 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 12,
+        "nombre": "Virgil Van Dijk",
+        "selección": "Paises Bajos",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084564_400x600_2-3.jpg",
+        "club": "Liverpool",
+        "edad": "31 años",
+        "posición": "Defensor"
+    },
+    {
+        "id": 13,
+        "nombre": "Son Heung-Min",
+        "selección": "Corea del Sur",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084569_400x600_2-3.jpg",
+        "club": "Tottenham Hotspur",
+        "edad": "30 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 14,
+        "nombre": "Federico Valverde",
+        "selección": "Uruguay",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084570_400x600_2-3.jpg",
+        "club": "Real Madrid",
+        "edad": "24 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 15,
+        "nombre": "Joshua Kimmich",
+        "selección": "Alemania",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084574_400x600_2-3.jpg",
+        "club": "Bayern Munich",
+        "edad": "27 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 16,
+        "nombre": "Bernardo Silva",
+        "selección": "Portugal",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084580_400x600_2-3.jpg",
+        "club": "Manchester City",
+        "edad": "28 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 17,
+        "nombre": "Joao Cancelo",
+        "selección": "Portugal",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084585_400x600_2-3.jpg",
+        "club": "Manchester City",
+        "edad": "28 años",
+        "posición": "Defensor"
+    },
+    {
+        "id": 18,
+        "nombre": "Phil Foden",
+        "selección": "Inglaterra",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084586_400x600_2-3.jpg",
+        "club": "Manchester City",
+        "edad": "22 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 19,
+        "nombre": "Pedri",
+        "selección": "España",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084587_400x600_2-3.jpg",
+        "club": "Barcelona",
+        "edad": "19 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 20,
+        "nombre": "Cristiano Ronaldo",
+        "selección": "Portugal",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084590_400x600_2-3.jpg",
+        "club": "Manchester United",
+        "edad": "37 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 21,
+        "nombre": "Alisson",
+        "selección": "Brasil",
+        "imagen": "https://a.espncdn.com/photo/2022/1101/r1084595_400x600_2-3.jpg",
+        "club": "Liverpool",
+        "edad": "30 años",
+        "posición": "Portero"
+    },
+    {
+        "id": 22,
+        "nombre": "Jude Bellingham",
+        "selección": "Inglaterra",
+        "imagen": "https://a.espncdn.com/photo/2022/1108/r1088133_400x600_2-3.jpg",
+        "club": "Borussia Dortmund",
+        "edad": "19 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 23,
+        "nombre": "Ruben Dias",
+        "selección": "Portugal",
+        "imagen": "https://a.espncdn.com/photo/2022/1108/r1088135_400x600_2-3.jpg",
+        "club": "Manchester City",
+        "edad": "25 años",
+        "posición": "Defensor"
+    },
+    {
+        "id": 24,
+        "nombre": "Manuel Neuer",
+        "selección": "Alemania",
+        "imagen": "https://a.espncdn.com/photo/2022/1108/r1088139_400x600_2-3.jpg",
+        "club": "Bayern Munich",
+        "edad": "36 años",
+        "posición": "Portero"
+    },
+    {
+        "id": 25,
+        "nombre": "Casemiro",
+        "selección": "Brasil",
+        "imagen": "https://a.espncdn.com/photo/2022/1108/r1088141_400x600_2-3.jpg",
+        "club": "Manchester United",
+        "edad": "30 años",
+        "posición": "Volante"
+    },
+    {
+        "id": "26",
+        "nombre": "Alphonso Davies",
+        "selección": "Canada",
+        "imagen": "https://a.espncdn.com/photo/2022/1108/r1088145_400x600_2-3.jpg",
+        "club": "Bayern Munich",
+        "edad": "22 años",
+        "posición": "Defensor"
+    },
+    {
+        "id": 27,
+        "nombre": "Bruno Fernandes",
+        "selección": "Portugal",
+        "imagen": "https://a.espncdn.com/photo/2022/1108/r1088146_400x600_2-3.jpg",
+        "edad": "28 años",
+        "posición": "Volante"       
+    },
+    {
+        "id": 28,
+        "nombre": "Rafael Leao",
+        "selección": "Portugal",
+        "imagen": "https://a.espncdn.com/photo/2022/1108/r1088151_400x600_2-3.jpg",
+        "club": "AC Milan",
+        "edad": "23 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 29,
+        "nombre": "Marquinhos",
+        "selección": "Brasil",
+        "imagen": "https://a.espncdn.com/photo/2022/1108/r1088154_400x600_2-3.jpg",
+        "club": "Paris Saint-Germain",
+        "edad": "29 años",
+        "posición": "Defensor"
+    },
+    {
+        "id": 30,
+        "nombre": "Antonio Rudiger",
+        "selección": "Alemania",
+        "imagen": "https://a.espncdn.com/photo/2022/1108/r1088155_400x600_2-3.jpg",
+        "club": "Real Madrid",
+        "edad": "29 años",
+        "posición": "Defensor"
+    },
+    {
+        "id": 31,
+        "nombre": "Thomas Muller",
+        "selección": "Alemania",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089126_400x600_2-3.jpg",
+        "club": "Bayern Munich",
+        "edad": "33 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 32,
+        "nombre": "Frenkie de Jong",
+        "selección": "Paises Bajos",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089129_400x600_2-3.jpg",
+        "club": "Barcelona",
+        "edad": "25 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 33,
+        "nombre": "Ilkay Gundogan",
+        "selección": "Alemania",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089134_400x600_2-3.jpg",
+        "club": "Manchester City",
+        "edad": "32 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 34,
+        "nombre": "Lautaro Martínez",
+        "selección": "Argentina",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089137_400x600_2-3.jpg",
+        "club": "Inter de Milán",
+        "edad": "25 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 35,
+        "nombre": "Trent Alexander-Arnold",
+        "selección": "Inglaterra",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089139_400x600_2-3.jpg",
+        "club": "Liverpool",
+        "edad": "24 años",
+        "posición": "Defensor"
+    },
+    {
+        "id": 36,
+        "nombre": "Achraf Hakimi",
+        "selección": "Marruecos",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089142_400x600_2-3.jpg",
+        "club": "Paris Saint-Germain",
+        "edad": "24 años",
+        "posición": "Defensor"
+    },
+    {
+        "id": 37,
+        "nombre": "Antoine Griezmann",
+        "selección": "Francia",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089150_400x600_2-3.jpg",
+        "club": "Atletico Madrid",
+        "edad": "31 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 38,
+        "nombre": "Ousmane Dembélé",
+        "selección": "Francia",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089151_400x600_2-3.jpg",
+        "club": "Barcelona",
+        "edad": "25 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 39,
+        "nombre": "Gabriel Jesús",
+        "selección": "Brasil",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089153_400x600_2-3.jpg",
+        "club": "Arsenal",
+        "edad": "25 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 40,
+        "nombre": "Dusan Vlahovic",
+        "selección": "Serbia",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089154_400x600_2-3.jpg",
+        "club": "Juventus",
+        "edad": "22 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 41,
+        "nombre": "Jamal Musiala",
+        "selección": "Alemania",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089158_400x600_2-3.jpg",
+        "club": "Bayern Munich",
+        "edad": "19 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 42,
+        "nombre": "Rodri",
+        "selección": "España",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089160_400x600_2-3.jpg",
+        "club": "Manchester City",
+        "edad": "26 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 43,
+        "nombre": "Romelu lukaku",
+        "selección": "Belgica",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089162_400x600_2-3.jpg",
+        "club": "Inter de Milán",
+        "edad": "43 años",
+        "posición": "Delantero"
+    },
+    {
+        "id": 44,
+        "nombre": "Aurelien Tchouameni",
+        "selección": "Francia",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089165_400x600_2-3.jpg",
+        "club": "Real Madrid",
+        "edad": "22 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 45,
+        "nombre": "Gavi",
+        "selección": "España",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089168_400x600_2-3.jpg",
+        "club": "Barcelona",
+        "edad": "18 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 46,
+        "nombre": "Christian Erikser",
+        "selección": "Dinamarca",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089169_400x600_2-3.jpg",
+        "club": "Manchester United",
+        "edad": "30 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 47,
+        "nombre": "Ederson",
+        "selección": "Brasil",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089170_400x600_2-3.jpg",
+        "club": "Manchester City",
+        "edad": "29 años",
+        "posición": "Portero"
+    },
+    {
+        "id": 48,
+        "nombre": "Bukayo Saka",
+        "selección": "Inglaterra",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089171_400x600_2-3.jpg",
+        "club": "Arsenal",
+        "edad": "21 años",
+        "posición": "Volante"
+    },
+    {
+        "id": 49,
+        "nombre": "Kalidou Koulibaly",
+        "selección": "Senegal",
+        "imagen": "https://a.espncdn.com/photo/2022/1110/r1089172_400x600_2-3.jpg",
+        "club": "Chelsea",
+        "edad": "31 años",
+        "posición": "Defensor"
+    },
+    {
+        "id": 50,
+        "nombre": "Andre Onana",
+        "selección": "Camerún",
+        "imagen": "https://a.espncdn.com/photo/2022/1116/r1091896_400x600_2-3.jpg",
+        "club": "Inter de Milán",
+        "edad": "26 años",
+        "posición": "Portero"
+    }
+    
+]
